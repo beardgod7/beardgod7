@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beardgod7" alt="beardgod7" /></a> </p>
 
-- 🔭 I’m currently working on **e commerce webapp**
+- 🔭 I’m currently working on **machine learning project**
 
-- 🌱 I’m currently learning **react, typescript**
+- 🌱 I’m currently learning **dev-ops , AI**
 
 - 👯 I’m looking to collaborate on **all project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/beardgod7](https://github.com/beardgod7)
 
-- 💬 Ask me about **Nodejs, messaging techniques, database and Api**
+- 💬 Ask me about ** Software architecture,System Design,  Nodejs, messaging techniques, database and Api**
 
 - 📫 How to reach me **nwaokefrancis@gmail.com// 07069464838**
 
