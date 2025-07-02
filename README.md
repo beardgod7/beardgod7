@@ -94,7 +94,4 @@ My work is centered on clean architecture, real-time data pipelines, fault toler
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beardgod7&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beardgod7&" alt="GitHub Streak" />
-</p>
 
